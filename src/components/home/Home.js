@@ -93,7 +93,7 @@ const Home = () => {
                         <ul className="menu-vertical">
                             <li><Link onClick={() => { setdeleted(true) }}>Borrar cuenta</Link></li>
                             <li><Link onClick={() => { setdeslogueo(true) }}>Deslogueate</Link></li>
-                            <li><Link onClick={() => { setmodal1(!modal1)}}>Crear ntoa</Link></li>
+                            <li><Link onClick={() => { setmodal1(!modal1)}}>Crear notoa</Link></li>
                         </ul>
                     </li>
                 </ul>

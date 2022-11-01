@@ -95,7 +95,7 @@ const Register = () => {
                     <input type="submit" name='' value='ingresar' className="button" />
                 </form>
                 <div className="footer">
-                    <Link className='linkreg' to="/login">logueate</Link>
+                    <Link className='linkreg' to="/login">Logueate</Link>
                 </div>
             </section>
         </main>
